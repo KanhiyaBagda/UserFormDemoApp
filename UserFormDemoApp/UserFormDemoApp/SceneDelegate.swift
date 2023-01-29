@@ -56,7 +56,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         (UIApplication.shared.delegate as? AppDelegate)?.saveContext()
     }
     
-    // MARK: -
+    // MARK: - Interne Availibility
     // MARK: - Stored OffLine Data Post To Server
     // MARK: -
     
